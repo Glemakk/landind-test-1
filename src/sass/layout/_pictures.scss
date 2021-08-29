@@ -1,0 +1,12 @@
+#fixed {
+  height: 400px;
+  border-top: 4px solid #eaeaea;
+  border-bottom: 4px solid #eaeaea;
+  background: url('../images/Marmotamaps_Wallpaper_AiguilleDuDru_Desktop_1920x1080.jpg') no-repeat
+    center center fixed;
+  //   background-repeat: no-repeat;
+  //   background-position: center center fixed;
+  background-blend-mode: multiply;
+  background-color: lightblue;
+  background-size: cover;
+}
