@@ -1,0 +1,36 @@
+.clock-container {
+  display: block;
+}
+.clock {
+  display: flex;
+  color: #333;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.field {
+  display: flex;
+  list-style-type: none;
+  text-transform: uppercase;
+}
+
+.label {
+  display: block;
+  margin: 2px;
+  font-size: 16px;
+}
+
+.value {
+  display: block;
+  width: 38px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #181819;
+  border-radius: 4px;
+  background: linear-gradient(1turn, #d9d9d9, #ebf8e1, #837d7f);
+  padding: 0px 10px;
+}
+
+// .bgc {
+//   background-color: #ddddab;
+// }
