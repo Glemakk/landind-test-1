@@ -713,4 +713,4 @@ module.exports=require("./lib/axios");
 },{"axios":"dZBD"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var e=u(require("bootstrap")),r=n(require("@popperjs/core"));function t(){if("function"!=typeof WeakMap)return null;var e=new WeakMap;return t=function(){return e},e}function n(e){if(e&&e.__esModule)return e;if(null===e||"object"!=typeof e&&"function"!=typeof e)return{default:e};var r=t();if(r&&r.has(e))return r.get(e);var n={},u=Object.defineProperty&&Object.getOwnPropertyDescriptor;for(var o in e)if(Object.prototype.hasOwnProperty.call(e,o)){var i=u?Object.getOwnPropertyDescriptor(e,o):null;i&&(i.get||i.set)?Object.defineProperty(n,o,i):n[o]=e[o]}return n.default=e,r&&r.set(e,n),n}function u(e){return e&&e.__esModule?e:{default:e}}require("./js/clock"),require("./js/constants"),require("./js/apiService");
 },{"./sass/main.scss":"clu1","bootstrap":"xqrD","@popperjs/core":"vePw","./js/clock":"tZqg","./js/constants":"MuPq","./js/apiService":"eQwa"}]},{},["Focm"], null)
-//# sourceMappingURL=/landind-test-1/src.06a33254.js.map
+//# sourceMappingURL=/landind-test-1/src.5bd389d9.js.map
